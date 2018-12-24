@@ -1,6 +1,6 @@
 #seulement 3 variables ont été initialisées avec des nombre entiers
-#donc lorsque une operation est effectué avec avec une 4 eme variables
-#qui ne l'a pas été une erreur renvoyé
+#donc lorsque une operation est effectué avec avec une 4 eme variable
+#qui ne l'a pas été une erreur est renvoyé
 
 
 
